@@ -38,6 +38,9 @@ Dutch. Do not add other languages until explicitly asked.
 - Instagram: https://www.instagram.com/cptsugar
 - Spotify: https://open.spotify.com/artist/5rN44UJpeEruH7gCkkv0Jn
 
+## Task tracking
+- `TODO.md` in the project root contains the task checklist. Keep it up to date as work progresses.
+
 ## Out of scope (for now)
 - Pricing
 - Member bios

@@ -2,3 +2,12 @@ baseURL = 'https://captainsugar.be/'
 languageCode = 'nl'
 title = 'Captain Sugar & The Daddies'
 theme = 'cptsugar'
+
+[params]
+  description = 'A cappella koor voor straatoptredens, huiskamerconcerten en persoonlijke evenementen in België.'
+  contactEmail = 'booking@captainsugar.be'
+  facebook = 'https://www.facebook.com/cptsugar'
+  instagram = 'https://www.instagram.com/cptsugar'
+  spotify = 'https://open.spotify.com/artist/5rN44UJpeEruH7gCkkv0Jn'
+
+[taxonomies]
