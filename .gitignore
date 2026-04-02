@@ -3,3 +3,10 @@ resources/_gen/
 .hugo_build.lock
 node_modules/
 .idea
+
+# Raw (unoptimized) photos — keep only static/images/web/
+static/images/*.jpg
+static/images/*.JPG
+static/images/*.jpeg
+static/images/*.png
+static/.DS_Store
