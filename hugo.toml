@@ -1,0 +1,4 @@
+baseURL = 'https://captainsugar.be/'
+languageCode = 'nl'
+title = 'Captain Sugar & The Daddies'
+theme = 'cptsugar'
